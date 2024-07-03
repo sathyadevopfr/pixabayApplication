@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pixabayApplication/static/css/main.bc50dcd3.css",
+    "main.js": "/pixabayApplication/static/js/main.e42ae0a4.js",
+    "static/media/Bc.jpg": "/pixabayApplication/static/media/Bc.14351856699b3c948f2b.jpg",
+    "index.html": "/pixabayApplication/index.html",
+    "main.bc50dcd3.css.map": "/pixabayApplication/static/css/main.bc50dcd3.css.map",
+    "main.e42ae0a4.js.map": "/pixabayApplication/static/js/main.e42ae0a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc50dcd3.css",
+    "static/js/main.e42ae0a4.js"
+  ]
+}
